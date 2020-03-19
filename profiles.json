@@ -45,10 +45,12 @@
 		{
 			"guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
 			"hidden": false,
+			"colorScheme": "UbuntuLegit",
 			"name": "Ubuntu",
 			"useAcrylic": true,
 			"acrylicOpacity": 0.75,
 			"fontFace": "Cascadia Code",
+			"startingDirectory": "\\\\wsl$\\Ubuntu\\home\\zapmaster14",
 			"source": "Windows.Terminal.Wsl"
 		}
 	],
